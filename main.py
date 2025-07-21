@@ -17,7 +17,7 @@ print(snoopy)
 
 # No-op change
 
-print("My foo coracao for you: \n")
+print("My fool coracao for you: \n")
 
 for row in range(6):
     for col in range(7):
