@@ -31,3 +31,5 @@ for row in range(6):
     print()
 
 print("Orange, not orange")
+
+print("helpfool")
